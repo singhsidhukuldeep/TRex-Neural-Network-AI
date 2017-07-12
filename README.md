@@ -24,6 +24,7 @@ jump cactus, using Neural Networks and a simple Genetic Algorithm.
    of the mouse to the origin of the `floor` of the dino. Press `s` key in the terminal to 
    start learning.
 ![Starting](https://raw.githubusercontent.com/SinghSidhuKuldeep/TRex-Neural-Network-AI/master/assets/trex_2.PNG)
+
 ![Running](https://raw.githubusercontent.com/SinghSidhuKuldeep/TRex-Neural-Network-AI/master/assets/trex_3.PNG)
 
 ## How does it work
@@ -58,6 +59,7 @@ and cross-over their values/configurations. After that, we apply random mutation
 in the values/configurations of the Neural Network, creating a new genome.
 
 We do the cross-over/mutation until we get 12 genomes again, and repeat it constantly.
+**If you have a good machine you can increase this number!**
 
 
 ## Implementation
