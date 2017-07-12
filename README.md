@@ -109,8 +109,8 @@ Kuldeep Singh Sidhu
 Github: [github/singhsidhukuldeep](https://github.com/singhsidhukuldeep)
 `https://github.com/singhsidhukuldeep`
 
-Website: [Kuldeep Singh Sidhu (Website)] (http://kuldeepsinghsidhu.esy.es)
+Website: [Kuldeep Singh Sidhu (Website)](http://kuldeepsinghsidhu.esy.es)
 `http://kuldeepsinghsidhu.esy.es`
 
-LinkedIn: [Kuldeep Singh Sidhu (LinkedIn)] (https://www.linkedin.com/in/kuldeep-singh-sidhu-96a67170/)
+LinkedIn: [Kuldeep Singh Sidhu (LinkedIn)](https://www.linkedin.com/in/kuldeep-singh-sidhu-96a67170/)
 `https://www.linkedin.com/in/kuldeep-singh-sidhu-96a67170/`
