@@ -1,5 +1,7 @@
 # TRex Neural Network AI
 
+![TRex AI Working](https://raw.githubusercontent.com/SinghSidhuKuldeep/TRex-Neural-Network-AI/master/assets/trex_screen_reading.gif)
+
 ![TRex AI](https://raw.githubusercontent.com/SinghSidhuKuldeep/TRex-Neural-Network-AI/master/assets/top_score.png)
 
 A simple artificial intelligence to teach Google Chrome's offline dinosaur to
