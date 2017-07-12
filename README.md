@@ -103,7 +103,7 @@ console in the element inspector:
 // Make sure the dino does not drift to the right
 setInterval(function (){Runner.instance_.tRex.xPos = 21}, 2000)
 ```
-##CREDITS
+## CREDITS
 Kuldeep Singh Sidhu
 github: [github/singhsidhukuldeep](https://github.com/singhsidhukuldeep)
 website:[Kuldeep Singh Sidhu](http://kuldeepsinghsidhu.esy.es)
