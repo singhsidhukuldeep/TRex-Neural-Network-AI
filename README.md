@@ -104,6 +104,8 @@ console in the element inspector:
 setInterval(function (){Runner.instance_.tRex.xPos = 21}, 2000)
 ```
 ## CREDITS
-Kuldeep Singh Sidhu \n
-github: [github/singhsidhukuldeep](https://github.com/singhsidhukuldeep) \n
-website:[Kuldeep Singh Sidhu](http://kuldeepsinghsidhu.esy.es)
+Kuldeep Singh Sidhu
+
+github: `[github/singhsidhukuldeep]`(https://github.com/singhsidhukuldeep)
+
+website:`[Kuldeep Singh Sidhu]`(http://kuldeepsinghsidhu.esy.es)
