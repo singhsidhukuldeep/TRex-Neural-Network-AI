@@ -13,7 +13,7 @@ jump cactus, using Neural Networks and a simple Genetic Algorithm.
 2. Clone/download this folder to your computer.
 
 3. run `npm install` within this folder
-![npm install](https://raw.githubusercontent.com/SinghSidhuKuldeep/TRex-Neural-Network-AI/master/assets/trex_1.png)
+![npm install](https://raw.githubusercontent.com/SinghSidhuKuldeep/TRex-Neural-Network-AI/master/assets/trex_1.PNG)
 
 4. Open Chrome's dinosaur game and put aside the terminal (It MUST be on the same screen)
    **(Tip: go to developer tools, and under network, set to offline )**
@@ -21,8 +21,8 @@ jump cactus, using Neural Networks and a simple Genetic Algorithm.
 5. run `node index` within this folder. If the game was located, it will move the cursor
    of the mouse to the origin of the `floor` of the dino. Press `s` key in the terminal to 
    start learning.
-![Starting](https://raw.githubusercontent.com/SinghSidhuKuldeep/TRex-Neural-Network-AI/master/assets/trex_2.png)
-![Running](https://raw.githubusercontent.com/SinghSidhuKuldeep/TRex-Neural-Network-AI/master/assets/trex_3.png)
+![Starting](https://raw.githubusercontent.com/SinghSidhuKuldeep/TRex-Neural-Network-AI/master/assets/trex_2.PNG)
+![Running](https://raw.githubusercontent.com/SinghSidhuKuldeep/TRex-Neural-Network-AI/master/assets/trex_3.PNG)
 
 ## How does it work
 
@@ -103,7 +103,7 @@ console in the element inspector:
 // Make sure the dino does not drift to the right
 setInterval(function (){Runner.instance_.tRex.xPos = 21}, 2000)
 ```
-#CREDITS
+##CREDITS
 Kuldeep Singh Sidhu
 github: [github/singhsidhukuldeep](https://github.com/singhsidhukuldeep)
 website:[Kuldeep Singh Sidhu](http://kuldeepsinghsidhu.esy.es)
