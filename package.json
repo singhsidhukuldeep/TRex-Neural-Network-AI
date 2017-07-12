@@ -1,0 +1,23 @@
+{
+  "name": "TrexAI",
+  "version": "1.0.0",
+  "description": "A simple artificial inteligence to teach Google's Dinosaur to jump cactus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kuldeep Singh Sidhu",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^1.5.0",
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^2.5.2",
+    "lodash": "^3.10.1",
+    "robotjs": "^0.4.5",
+    "synaptic": "^1.0.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/SinghSidhuKuldeep/TRex-Neural-Network-AI.git"
+  }
+}
